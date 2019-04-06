@@ -22,7 +22,7 @@ p1:border {
     <div class="page_section_offset p_top_0">
 	<div class="container ">
 		<div class="row">
-			<h1 class="color_dark tt_uppercase second_font fw_light m_bottom_13">MORGENMAD & BRUNCH</h1>
+			<h1 class="color_dark tt_uppercase second_font fw_light m_bottom_13">MORGENMAD & BRUNCH:</h1>
             
 			<hr /><br />
 			<div class="col-lg-5 col-md-5 col-sm-12 m_bottom_55 m_xs_bottom_30 t_sm_align_c">
